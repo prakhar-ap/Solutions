@@ -1,5 +1,6 @@
 /*
-https://www.codechef.com/COOK113B/problems/PRFYIT
+* https://www.codechef.com/COOK113B/problems/PRFYIT
+* @author Prakhar Khandelwal
 */
 import java.util.Scanner;
 import java.util.List;
