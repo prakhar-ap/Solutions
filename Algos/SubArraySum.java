@@ -41,7 +41,7 @@ class SubArraySum {
 		for(int i = 1; i <= a.length; i++) {
 
 			while( cur_sum > SUM && x < i - 1) {
-				cur_sum -= a[x++]; // if the sum exceeds.. then just remove the leftmost
+				cur_sum -= a[x++]; // if the sum exceeds.. then just remove the leftmost element
 			}
 
 			if(cur_sum == SUM) {
