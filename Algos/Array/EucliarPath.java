@@ -19,7 +19,6 @@ class EucliarPath {
         while(T-- > 0) {
             int N = Integer.parseInt(br.readLine());
             
-            // int[][] matrix = new int[N][N];
             int oddCount = 0;
             for(int i=0;i<N;i++) {
                 String[] subs = br.readLine().trim().split("\\s+");
