@@ -47,10 +47,10 @@ class RottenOranges {
 					time = -1;
 					break;
 				}
-				previous = doer.size();
 				List<String> temp = new ArrayList<>();
-				
-				for(String s : doer) {
+				//System.out.println("previous: " + previous + " , doer: " + doer.size());
+				for(int x=previous;x<doer.size();x++) {
+					String s = doer.get(x);
 					inc++;
 					// doer's position
 					int i = Integer.parseInt(s.split("\\s+")[0]);
@@ -78,6 +78,8 @@ class RottenOranges {
 						victimCount--; // decrease victim's count
 					}
 				}
+				previous = doer.size();
+
 				if(temp.size() != 0) {
 					doer.addAll(temp);
 				}
