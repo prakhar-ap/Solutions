@@ -1,8 +1,8 @@
 https://ide.geeksforgeeks.org/VY4Sz1E9N0
-for : https://practice.geeksforgeeks.org/problems/circular-tour
+for : https://practice.geeksforgeeks.org/problems/circular-tour/1
 
 https://ide.geeksforgeeks.org/58LmRvEutE
-for : https://practice.geeksforgeeks.org/problems/lru-cache
+for : https://practice.geeksforgeeks.org/problems/lru-cache/1
 
 https://ide.geeksforgeeks.org/a6fN6dfR2l
-for : https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph
+for : https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
