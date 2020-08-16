@@ -6,3 +6,12 @@ for : https://practice.geeksforgeeks.org/problems/lru-cache/1
 
 https://ide.geeksforgeeks.org/a6fN6dfR2l
 for : https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+
+https://ide.geeksforgeeks.org/eUH51vCcxs
+for : https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1
+
+https://ide.geeksforgeeks.org/hEMu3UjKYs
+for : https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+
+https://ide.geeksforgeeks.org/WKn46mz1ER
+for : https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
